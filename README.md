@@ -23,7 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
 
 ### Built with
 
@@ -36,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Thought I had mastered HTML and CSS, so not getting it perfect at first try was kind of surprising. Maybe it is because I have been too immersed in my JavaScript journey. Knowing the image was not meant to be responsive helped me write lesser code too.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+Better mastery of HTML and CSS basically.
 
 ## Author
 
