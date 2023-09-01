@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/adedapo0x/Static-QR-Code
 - Live Site URL: https://adedapo0x.github.io/Static-QR-Code/
 
 
@@ -39,6 +39,6 @@ Better mastery of HTML and CSS basically.
 
 ## Author
 
--Adeyemi Adedapo - []
+-Adeyemi Adedapo - https://github.com/adedapo0x
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
